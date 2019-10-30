@@ -1,0 +1,15 @@
+.ui.header {
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 75px;
+}
+
+#head {
+    font-size: 75px;
+    margin-top: 150px;
+}
+#subHead{
+    font-size:20px;
+    font-family: 'Indie Flower', cursive;
+    font-size:25px;
+    line-height:30px;
+}
